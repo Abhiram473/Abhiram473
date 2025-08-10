@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxtdjI2b214MW16cndmcnh4ZzhwaGVhYXk5N3UwdWFxOHB0eDd0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif">
 
-<p align="left"> <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxtdjI2b214MW16cndmcnh4ZzhwaGVhYXk5N3UwdWFxOHB0eDd0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="Abhiram473" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhiram473&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiram473" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
