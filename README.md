@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif)]()
 <h1 align="center">Hi 👋, I'm Abhiram Kumar</h1>
-<h3 align="center">An Innovative CS Undergrad | Data Sceintist | A Passionate Coder | Tech Explorer</h3>
+<h3 align="center">An Innovative CS - Data Science Graduate | A Passionate Coder | Tech Explorer</h3>
 
 <img align="right" alt="Coding" width="400" src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxtdjI2b214MW16cndmcnh4ZzhwaGVhYXk5N3UwdWFxOHB0eDd0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif">
 
